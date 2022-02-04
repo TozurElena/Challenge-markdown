@@ -21,3 +21,7 @@
   *   fantastique
 * Manger (deguster les plats nationals)
 
+### You can always count on me when
+* vous besion d'aide
+* when you need to get the job done quickly and efficiently
+
