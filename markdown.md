@@ -5,10 +5,10 @@
 
 ###### J'adore voyager, manger, lire et un peu travailler pour faire ça
 
-|---|---|
-|Birthday: |dd/mm|
-|Gender: |?|
-|Favorite color:| |?|
-|Favorite food: |?|
-|Pinneapple on pizza: |Yes/No|
+| ---|---|
+| Birthday: |dd/mm|
+| Gender: |?|
+| Favorite color:| |?|
+| Favorite food: |?|
+| Pinneapple on pizza: |Yes/No|
 
