@@ -14,3 +14,10 @@
 | Favorite food: |fish |
 | Pinneapple on pizza: |  [  ]Yes /  [ x ] No|
 
+## Hobbies 
+* Voyager
+* Lire
+  *   l'histoire
+  *   fantastique
+* Manger (deguster les plats nationals)
+
