@@ -7,6 +7,7 @@
 
 
 | | |
+| --- | --- |
 | Birthday: | dd/mm |
 | Gender: | ? |
 | Favorite color:| ?|
