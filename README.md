@@ -28,8 +28,10 @@
 * when you need to get the job done quickly and efficiently
 
 ### A funny story
-J'adore lire les histoire, mais je ne peux pas les écrir
+J'adore lire les histoire, mais je ne peux pas les écrire
+
 Tout cela serait drôle si ce n'était pas si triste
+
 #### Bref
 Le monde entier est un cirque
 
