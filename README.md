@@ -1,5 +1,3 @@
-# Challenge-markdown
-
 # Kozyreva Elena
 *Tu peux faire ça!*
 
