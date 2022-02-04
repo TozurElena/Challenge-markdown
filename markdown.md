@@ -8,9 +8,9 @@
 
 | | |
 | --- | --- |
-| Birthday: | dd/mm |
-| Gender: | ? |
-| Favorite color:| ?|
-| Favorite food: |? |
+| Birthday: | 28/07|
+| Gender: | F |
+| Favorite color:|green|
+| Favorite food: |fish |
 | Pinneapple on pizza: |Yes/No|
 
