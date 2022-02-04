@@ -33,4 +33,4 @@ fghkfghkf
 #### Bref
 lgkhjggk
 
-<< [previous]() || KOZYREVA ELENA || [next]() >>
+<< [previous](https://github.com/Daryl021) || KOZYREVA ELENA || [next](https://github.com/eliseprts) >>
