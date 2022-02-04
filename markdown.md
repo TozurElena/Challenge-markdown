@@ -12,5 +12,5 @@
 | Gender: | F |
 | Favorite color:|green|
 | Favorite food: |fish |
-| Pinneapple on pizza: |  [ ]Yes/[x]No|
+| Pinneapple on pizza: |  [  ]Yes /  [ x ] No|
 
