@@ -5,7 +5,7 @@
 
 ###### J'adore voyager, manger, lire et un peu travailler pour faire ça
 
-|  |  |
+
 | ---|---|
 | Birthday: | dd/mm |
 | Gender: | ? |
