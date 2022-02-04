@@ -28,9 +28,9 @@
 * when you need to get the job done quickly and efficiently
 
 ### A funny story
-fghkfghkf
-
+J'adore lire les histoire, mais je ne peux pas les écrir
+Tout cela serait drôle si ce n'était pas si triste
 #### Bref
-lgkhjggk
+Le monde entier est un cirque
 
 << [previous](https://github.com/Daryl021) || KOZYREVA ELENA || [next](https://github.com/eliseprts) >>
